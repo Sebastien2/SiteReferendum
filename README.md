@@ -1,5 +1,4 @@
 Symfony2
 ========
 
-A Symfony project created on March 10, 2018, 11:26 am.
-"# SiteReferendum" 
+Just trash for testing: do not look too closely on this
